@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/bin/Debug/net6.0/static sinif ve uyeler
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/bin/Debug/net6.0/static sinif ve uyeler.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/bin/Debug/net6.0/static sinif ve uyeler.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/bin/Debug/net6.0/static sinif ve uyeler.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/bin/Debug/net6.0/static sinif ve uyeler.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/obj/Debug/net6.0/static sinif ve uyeler.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/obj/Debug/net6.0/static sinif ve uyeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/obj/Debug/net6.0/static sinif ve uyeler.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/obj/Debug/net6.0/static sinif ve uyeler.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/obj/Debug/net6.0/static sinif ve uyeler.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/obj/Debug/net6.0/static sinif ve uyeler.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/obj/Debug/net6.0/refint/static sinif ve uyeler.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/obj/Debug/net6.0/static sinif ve uyeler.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/obj/Debug/net6.0/static sinif ve uyeler.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/static sinif ve uyeler/obj/Debug/net6.0/ref/static sinif ve uyeler.dll
